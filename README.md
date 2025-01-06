@@ -1,8 +1,7 @@
-# React + Vite
+# CryptoAPP
+ 
+**This project not only shows the daily price of digital currencies, but also shows its growth chart and time on each currency that you click on. 
+you can check 
+For example, it shows the one a day ago or even a year ago.**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Keep wait for new updates🙏
